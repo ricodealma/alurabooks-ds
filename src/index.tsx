@@ -20,3 +20,4 @@ export * from './componentes/AbCampoTexto';
 export * from './componentes/AbCard';
 export * from './componentes/AbTag';
 export * from './componentes/AbInputQuantidade';
+export * from './componentes/AbModal';
